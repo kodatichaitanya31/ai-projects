@@ -1,0 +1,13 @@
+Machine learning is a field of AI where computers learn patterns from data instead of being explicitly programmed.
+
+Supervised learning uses labeled examples to train a model. Classification and regression are common supervised tasks.
+
+Unsupervised learning finds structure in unlabeled data, for example clustering similar customers together.
+
+A neural network is made of layers of connected nodes. Deep learning uses neural networks with many layers.
+
+Large language models are neural networks trained on huge amounts of text to predict the next token. They can answer questions, summarize and write code.
+
+Retrieval-augmented generation, or RAG, combines a search step with a language model. Relevant documents are retrieved first and then used as context for the answer.
+
+Overfitting happens when a model memorizes training data and performs poorly on new data. Techniques like regularization and cross-validation help prevent it.
